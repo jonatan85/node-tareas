@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "titulo": "Hacer la compra",
+        "descripcion": "Ir al supermercado y comprar los productos necesarios",
+        "fecha_limite": "2024-03-10",
+        "fecha_ejecucion": null,
+        "completada": false,
+        "imagen": "https://ejemplo.com/imagen1.jpg"
+    },
+    {
+        "id": 2,
+        "titulo": "Preparar presentación",
+        "descripcion": "Crear diapositivas para la reunión del cliente",
+        "fecha_limite": "2024-03-15",
+        "fecha_ejecucion": null,
+        "completada": true,
+        "imagen": "https://ejemplo.com/imagen2.jpg"
+    },
+    {
+        "id": 3,
+        "titulo": "Ejercicio",
+        "descripcion": "Hacer 30 minutos de ejercicio cardiovascular",
+        "fecha_limite": "2024-03-08",
+        "fecha_ejecucion": null,
+        "completada": false,
+        "imagen": "https://ejemplo.com/imagen3.jpg"
+    },
+    {
+        "id": 4,
+        "titulo": "Leer libro",
+        "descripcion": "Avanzar en la lectura del libro seleccionado",
+        "fecha_limite": "2024-03-12",
+        "fecha_ejecucion": null,
+        "completada": false,
+        "imagen": "https://ejemplo.com/imagen4.jpg"
+    },
+    {
+        "id": 5,
+        "titulo": "Revisar correos electrónicos",
+        "descripcion": "Responde a los correos importantes",
+        "fecha_limite": "2024-03-09",
+        "fecha_ejecucion": null,
+        "completada": false,
+        "imagen": "https://ejemplo.com/imagen5.jpg"
+    },
+    {
+        "id": 6,
+        "titulo": "Organizar escritorio",
+        "descripcion": "Limpiar y organizar el espacio de trabajo",
+        "fecha_limite": "2024-03-11",
+        "fecha_ejecucion": null,
+        "completada": false,
+        "imagen": "https://ejemplo.com/imagen6.jpg"
+    },
+    {
+        "id": 7,
+        "titulo": "Llamar al médico",
+        "descripcion": "Programar una cita para el chequeo anual",
+        "fecha_limite": "2024-03-14",
+        "fecha_ejecucion": null,
+        "completada": false,
+        "imagen": "https://ejemplo.com/imagen7.jpg"
+    },
+    {
+        "id": 8,
+        "titulo": "Actualizar CV",
+        "descripcion": "Agregar nuevas experiencias y habilidades al currículum",
+        "fecha_limite": "2024-03-13",
+        "fecha_ejecucion": null,
+        "completada": false,
+        "imagen": "https://ejemplo.com/imagen8.jpg"
+    },
+    {
+        "id": 9,
+        "titulo": "Aprender una nueva receta",
+        "descripcion": "Cocinar una receta diferente para la cena",
+        "fecha_limite": "2024-03-07",
+        "fecha_ejecucion": null,
+        "completada": false,
+        "imagen": "https://ejemplo.com/imagen9.jpg"
+    },
+    {
+        "id": 10,
+        "titulo": "Planificar vacaciones",
+        "descripcion": "Investigar destinos y fechas para las próximas vacaciones",
+        "fecha_limite": "2024-03-16",
+        "fecha_ejecucion": null,
+        "completada": false,
+        "imagen": "https://ejemplo.com/imagen10.jpg"
+    }
+]
